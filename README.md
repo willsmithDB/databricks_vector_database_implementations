@@ -20,7 +20,7 @@ One of the key implementations included in this repository is the Facebook AI Si
 
 ## Configuration
 
-The repository includes an associated configuration file for the FAISS implementation. This config file helps in setting up and tuning the FAISS library to work optimally within the Databricks environment.
+The repository includes an associated configuration file that sets variables including Unity Catalog assets and LLM endpoint names. 
 
 ## Contributing
 
